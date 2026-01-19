@@ -1,5 +1,3 @@
-# Fashion-Recommendation-System-Using-Deep-Learning-and-Computer-Vision
-About AI-powered fashion recommendation system using computer vision and deep learning. Features YOLOv8 object detection, custom feature extraction models, and FAISS similarity search to suggest similar clothing items from uploaded images. Built with PyTorch, ONNX, and Streamlit. Includes comprehensive evaluation metrics and performance benchmarks.
 # Fashion Recommendation System Using Deep Learning and Computer Vision# Fashion Recommendation System Using Deep Learning and Computer Vision# Fashion Recommendation System Using Deep Learning and Computer Vision<h2 align="center">SmartStylist: A Fashion Recommender System powered by Computer Vision</h2>
 
 
@@ -303,10 +301,13 @@ Contributions, issues, and feature requests are welcome!
 
 
 
+## 📧 Contact2. **Install dependencies**    </center>
 
 
 
+**Dhriti Kourla**```bash
 
+- GitHub: @dhriti-kourla
 
 pip install -r requirements.txt## 🛠️ Technology Stack</figure>
 
@@ -490,7 +491,17 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ```
 
+## 📧 Contact
 
+### Running the Application
+
+**Dhriti Kourla**
+
+- GitHub: [@dhriti-kourla](https://github.com/dhriti-kourla)<br>
+
+
+
+---```bash
 
 
 
@@ -593,7 +604,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
+## 📧 Contact
 
+**Dhriti Kourla**
+- GitHub: [@dhriti-kourla](https://github.com/dhriti-kourla)
 
 ---
 

@@ -1,0 +1,57 @@
+================================================================================
+FASHION RECOMMENDER EVALUATION REPORT
+Joan Kusuma +Layer CNN Architecture
+================================================================================
+
+🎯 MEAN AVERAGE PRECISION (mAP@K)
+----------------------------------------
+       mAP@1: 0.5490 ✅ EXCELLENT
+       mAP@3: 0.6211 ✅ EXCELLENT
+       mAP@5: 0.6178 ✅ EXCELLENT
+      mAP@10: 0.5943 ✅ EXCELLENT
+ Joan Target: 0.5300 (mAP@5)
+ Performance: (116.6% of Joan's target)
+
+📊 PRECISION & RECALL METRICS
+----------------------------------------
+k= 1 | P:0.587 R:0.001 F1:0.002
+k= 3 | P:0.540 R:0.004 F1:0.007
+k= 5 | P:0.525 R:0.006 F1:0.011
+k=10 | P:0.489 R:0.011 F1:0.021
+
+🏷️  CATEGORY PERFORMANCE (Precision@5)
+----------------------------------------
+🥇 Sunglasses          : 0.776 (100 samples)
+🥇 Pants               : 0.772 (100 samples)
+🥇 Watches             : 0.748 (100 samples)
+🥈 Shorts              : 0.568 (100 samples)
+🥈 Handbags            : 0.502 (100 samples)
+🥈 Hats                : 0.502 (100 samples)
+🥉 Skirts              : 0.496 (100 samples)
+🥉 Shoes               : 0.448 (100 samples)
+🥉 Scarves             : 0.410 (100 samples)
+🥉 Dresses             : 0.408 (100 samples)
+
+🌈 DIVERSITY ANALYSIS
+----------------------------------------
+Avg Categories per Rec: 2.59
+Embedding Diversity:    5.0191
+
+🔍 EMBEDDING QUALITY
+----------------------------------------
+Intra-category dist:  9.5741
+Inter-category dist:  10.5631
+Separation ratio:     1.1033
+
+⚙️  SYSTEM INFORMATION
+----------------------------------------
+Total items:          6778
+Categories:           21
+Embedding dimension:  512
+
+🎯 OVERALL ASSESSMENT
+----------------------------------------
+Overall Score:        0.553
+Status:               ✅ GOOD - Meeting requirements
+
+================================================================================
