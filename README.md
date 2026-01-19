@@ -606,10 +606,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 📧 Contact
 
-**Dhriti Kourla**
-- GitHub: [@dhriti-kourla](https://github.com/dhriti-kourla)
 
 ---
 
