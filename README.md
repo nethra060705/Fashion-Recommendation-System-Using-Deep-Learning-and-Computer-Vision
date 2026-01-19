@@ -303,13 +303,10 @@ Contributions, issues, and feature requests are welcome!
 
 
 
-## 📧 Contact2. **Install dependencies**    </center>
 
 
 
-**Dhriti Kourla**```bash
 
-- GitHub: @dhriti-kourla
 
 pip install -r requirements.txt## 🛠️ Technology Stack</figure>
 
@@ -493,17 +490,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ```
 
-## 📧 Contact
 
-### Running the Application
-
-**Dhriti Kourla**
-
-- GitHub: [@dhriti-kourla](https://github.com/dhriti-kourla)<br>
-
-
-
----```bash
 
 
 
