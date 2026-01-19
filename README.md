@@ -1,0 +1,2 @@
+# Fashion-Recommendation-System-Using-Deep-Learning-and-Computer-Vision
+About AI-powered fashion recommendation system using computer vision and deep learning. Features YOLOv8 object detection, custom feature extraction models, and FAISS similarity search to suggest similar clothing items from uploaded images. Built with PyTorch, ONNX, and Streamlit. Includes comprehensive evaluation metrics and performance benchmarks.
